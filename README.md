@@ -1,1 +1,14 @@
-# CS-360-Mobile
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+  The NoCakeWeight app was developed as part of a school project focused on mobile development, aiming to provide users with an easy way to log their daily weight and visualize it in a grid view. The app's primary goal was to enable users to set personal weight goals and track their daily weight entries, with notifications for achieving weight milestones. To stand out, the app features a colorful and intuitive UI, complemented by the humorous twist of its name.
+
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+  To support user needs, I designed several screens, starting with a log in & registration pages for new users to create an account and set their personal weight goal. After logging in, users accessed the main screen, which displayed their goal weight prominently at the top and allowed them to add new weight entries that were automatically timestamped. Although the SMS notification feature was initially implemented, a structural change during development caused it to stop working, highlighting the importance of thorough testing.
+
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+  My approach to coding was systematic, beginning with the theme and UI design to ensure a user-friendly experience. I broke down the coding process into smaller segments for easier debugging, testing each section as I progressed. Frequent testing helped identify errors early, preventing more significant issues later on (despite the SMS page breaking, that was human nature error).
+
+Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+  Despite only needing three screens, I innovated by adding more to enhance usability and navigation, creating distinct screens for a more intuitive experience. This design choice, while increasing complexity, ultimately resulted in a better-organized app.
+
+In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+  I believe I demonstrated my knowledge and skills most effectively in the main screen, which showcases the user's goal weight and provides a grid view for tracking progress. By allowing users to delete incorrect entries instead of editing them, I promoted honesty in weight tracking, reinforcing a healthier relationship with weight management. This component reflects my understanding of user behavior and effective app design.
